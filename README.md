@@ -18,14 +18,16 @@ An open-source URL Shortener application developed using HTML, CSS, and JavaScri
 -CSS – Styling
 
 -JavaScript – Functionality
+
 **/URL-Shortener**
 │── index.html
 │── style.css
 │── script.js
+
 **🎯 Future Enhancements**
 
-Add custom short link options
+-Add custom short link options
 
-Store URLs in localStorage / database
+-Store URLs in localStorage / database
 
-Analytics for number of clicks
+-Analytics for number of clicks
